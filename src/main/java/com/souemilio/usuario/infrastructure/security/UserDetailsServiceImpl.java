@@ -1,7 +1,7 @@
 package com.souemilio.usuario.infrastructure.security;
 
-import com.souemilio.aprendendospring.infrastructure.entity.Usuario;
-import com.souemilio.aprendendospring.infrastructure.repository.UsuarioRepository;
+import com.souemilio.usuario.infrastructure.entity.Usuario;
+import com.souemilio.usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
